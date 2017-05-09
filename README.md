@@ -1,0 +1,2 @@
+# ADO.PHP
+基于PDO实现，类似ADO.NET的API函数
