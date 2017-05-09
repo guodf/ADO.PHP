@@ -1,5 +1,5 @@
 {
-    "name": "guodf/GSOU",
+    "name": "guodf/ADO.PHP",
     "keywords":["datetime","date","time"],
     "description": "DateTime class library",
     "license":"MIT",
@@ -8,7 +8,7 @@
         {
             "name": "guodf",
             "email": "guo_net_win@live.com",
-            "homepage": "https://github.com/guodf"
+            "homepage": "https://github.com/guodf/ADO.PHP"
         }
     ],
     "require": {
